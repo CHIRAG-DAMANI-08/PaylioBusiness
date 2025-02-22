@@ -6,7 +6,7 @@ import {
     CardTitle,
   } from "@/components/ui/card";
   import React from "react";
-  import AlmostFinished from "@/public/work-is-almost-over-happy.gif";
+ 
   import Image from "next/image";
   import { Button } from "@/components/ui/button";
   import { CalendarCheck2 } from "lucide-react";
@@ -22,7 +22,7 @@ import {
               We have to now connect your calendar to your account.
             </CardDescription>
             <Image
-              src={AlmostFinished}
+              src="/almost-finished.png"
               alt="Almost Finished"
               className="w-full rounded-lg"
             />

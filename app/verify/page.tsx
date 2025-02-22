@@ -15,7 +15,7 @@ export default function Verify(){
                         Check your Email
                     </CardTitle>
                     <CardDescription>
-                        We&aposve sent a verification link to your email address.
+                        We have sent a verification link to your email address.
                     </CardDescription>
                 </CardHeader>
                 <CardContent>
